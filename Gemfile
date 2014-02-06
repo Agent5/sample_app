@@ -14,7 +14,7 @@ gem 'bcrypt-ruby', '3.0.1'
 # Gems used only for assets and not required
 # in production environments by default.
 group :development, :test do
-  gem 'sqlite3', '1.3.5'
+
   gem 'rspec-rails', '2.10.0'
   gem 'guard-rspec', '0.5.5'
   gem 'guard-spork', '0.3.2'
